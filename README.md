@@ -1,4 +1,7 @@
 # TF2-Crosshair-Switcher
+
+## Notice: This project is no longer maintained. A better version of this project exists [here](https://github.com/count-of-monte-keystone/laz-vtf-tf2-crosshair-selector-REDUX).
+
 A simple program for automating crosshair changing for weapons in Team Fortress 2.
 
 All weapon scripts are hard-coded in so any missing ones may cause issues.
